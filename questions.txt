@@ -1,0 +1,1110 @@
+UnansweredQuestion 204
+0 / 0 pts
+_____ is data about data through which the end-user data are integrated and managed.
+You Answered
+Correct Answers
+Metadata 
+ 
+UnansweredQuestion 205
+0 / 0 pts
+_____ exists when the same data are stored unnecessarily at different places.
+You Answered
+Correct Answers
+Data redundancy 
+ 
+UnansweredQuestion 206
+0 / 0 pts
+_____ exists when it is possible to make changes in the data storage characteristics without affecting an application program’s ability to access data.
+You Answered
+Correct Answers
+Data independence 
+ 
+UnansweredQuestion 207
+0 / 0 pts
+_____ is the result of processing raw data to reveal its meaning.
+You Answered
+Correct Answers
+Information 
+ 
+UnansweredQuestion 208
+0 / 0 pts
+A(n) _____ is a specific request issued to the DBMS for data manipulation.
+You Answered
+Correct Answers
+query 
+ 
+UnansweredQuestion 209
+0 / 0 pts
+_____ exists when different and conflicting versions of the same data appear in different places.
+You Answered
+Correct Answers
+Data inconsistency 
+ 
+UnansweredQuestion 210
+0 / 0 pts
+To reveal meaning, information requires _____.
+You Answered
+Correct Answers
+context 
+ 
+UnansweredQuestion 211
+0 / 0 pts
+To reveal meaning, information requires _____.
+You Answered
+Correct Answers
+context 
+ 
+UnansweredQuestion 212
+0 / 0 pts
+A(n) _____ is a relatively simple representation of more complex real-world data structures.
+You Answered
+Correct Answers
+data model 
+ 
+UnansweredQuestion 213
+0 / 0 pts
+In _____, a three-pronged symbol represents the “many” side of the relationship.
+You Answered
+Correct Answers
+Crow’s Foot notation 
+ 
+UnansweredQuestion 214
+0 / 0 pts
+The _____ is the representation of a database as “seen” by the DBMS.
+You Answered
+Correct Answers
+internal model 
+ 
+UnansweredQuestion 215
+0 / 0 pts
+A(n) _____ defines the environment in which data can be managed and is used to work with the data in the database.
+You Answered
+Correct Answers
+data manipulation language (DML) 
+ 
+UnansweredQuestion 216
+0 / 0 pts
+A(n) _____ is a brief, precise, and unambiguous description of a policy, procedure, or principle within a specific organization.
+You Answered
+Correct Answers
+business rule 
+ 
+UnansweredQuestion 217
+0 / 0 pts
+Each column in a relation represents a(n) _____.
+You Answered
+Correct Answers
+attribute 
+ 
+UnansweredQuestion 218
+0 / 0 pts
+The relational model’s foundation is a mathematical concept known as a(n) _____.
+You Answered
+Correct Answers
+relation 
+ 
+UnansweredQuestion 219
+0 / 0 pts
+The _____ model is the end users’ view of the data environment.
+You Answered
+Correct Answers
+external 
+ 
+UnansweredQuestion 220
+0 / 0 pts
+To avoid nulls, some designers use special codes, known as _____, to indicate the absence of some value.
+You Answered
+Correct Answers
+flags 
+ 
+UnansweredQuestion 221
+0 / 0 pts
+_____ relationships cannot be implemented as such in the relational model.
+You Answered
+Correct Answers
+M:N 
+ 
+UnansweredQuestion 222
+0 / 0 pts
+The _____ relationship is the relational database norm.
+You Answered
+Correct Answers
+1:M 
+ 
+UnansweredQuestion 223
+0 / 0 pts
+A(n) _____ index is an index in which the index key can have only one pointer value (row) associated with it.
+You Answered
+Correct Answers
+unique 
+ 
+UnansweredQuestion 224
+0 / 0 pts
+The proper use of _____ keys is crucial to controlling data redundancy.
+You Answered
+Correct Answers
+foreign 
+ 
+UnansweredQuestion 225
+0 / 0 pts
+_____ is the real power behind the relational database, allowing the use of independent tables linked by common attributes.
+You Answered
+Correct Answers
+JOIN 
+ 
+UnansweredQuestion 226
+0 / 0 pts
+A primary key is a(n) _____ key chosen to be the primary means by which rows of a table are uniquely identified.
+You Answered
+Correct Answers
+candidate 
+ 
+UnansweredQuestion 227
+0 / 0 pts
+If one department chair—a professor—can chair only one department, and one department can have only one department chair. The entities PROFESSOR and DEPARTMENT exhibit a(n) _____ relationship.
+You Answered
+Correct Answers
+1:1 
+ 
+UnansweredQuestion 228
+0 / 0 pts
+A weak entity must be _____-dependent.
+You Answered
+Correct Answers
+existence 
+ 
+UnansweredQuestion 229
+0 / 0 pts
+In Crow’s Foot notation, an optional relationship between entities is shown by drawing a(n) _____ on the side of the optional entity.
+You Answered
+Correct Answers
+small circle (O) 
+ 
+UnansweredQuestion 230
+0 / 0 pts
+A(n) _____ attribute need not be physically stored within the database.
+You Answered
+Correct Answers
+derived 
+ 
+UnansweredQuestion 231
+0 / 0 pts
+A(n) _____ relationship is also known as an identifying relationship.
+You Answered
+Correct Answers
+strong 
+ 
+UnansweredQuestion 232
+0 / 0 pts
+The Crow’s Foot notation depicts the strong relationship with a(n) _____ line between the entities.
+You Answered
+Correct Answers
+solid 
+ 
+UnansweredQuestion 233
+0 / 0 pts
+Participation is _____ if one entity occurrence does not require a corresponding entity occurrence in a particular relationship.
+You Answered
+Correct Answers
+optional 
+ 
+UnansweredQuestion 234
+0 / 0 pts
+A person’s Social Security number would be an example of a(n) _____ attribute.
+You Answered
+Correct Answers
+single-valued 
+ 
+UnansweredQuestion 235
+0 / 0 pts
+When indicating cardinality, the first value represents the _____ number of associated entities.
+You Answered
+Correct Answers
+minimum 
+ 
+UnansweredQuestion 236
+0 / 0 pts
+Unique values can be better managed when they are _____, because the database can use internal routines to implement a counter-style attribute that automatically increments values with the addition of each new row. 
+You Answered
+Correct Answers
+numeric 
+ 
+UnansweredQuestion 237
+0 / 0 pts
+From a data modeling point of view, _____ data refer to data whose values change over time and for which one must keep a history of the data changes.
+You Answered
+Correct Answers
+time-variant 
+ 
+UnansweredQuestion 238
+0 / 0 pts
+The _____ specifies whether each entity supertype occurrence must also be a member of at least one subtype.
+You Answered
+Correct Answers
+completeness constraint 
+ 
+UnansweredQuestion 239
+0 / 0 pts
+Composite keys are useful as identifiers of weak entities, where the weak entity has a strong _____ relationship with the parent entity.
+You Answered
+Correct Answers
+identifying 
+ 
+UnansweredQuestion 240
+0 / 0 pts
+Subtypes that contain nonunique subsets of the supertype entity set are known as _____ subtypes.
+You Answered
+Correct Answers
+overlapping 
+ 
+UnansweredQuestion 241
+0 / 0 pts
+One practical advantage of a(n) _____ key is that because it has no intrinsic meaning, values for it can be generated by the DBMS to ensure that unique values are always provided.
+You Answered
+Correct Answers
+surrogate 
+ 
+UnansweredQuestion 242
+0 / 0 pts
+Composite primary keys are particularly useful as identifiers of composite entities, where each primary key combination is allowed _____ in the M:N relationship.
+You Answered
+Correct Answers
+once 
+only once 
+ 
+UnansweredQuestion 243
+0 / 0 pts
+_____ completeness means that every supertype occurrence must be a member of at least one subtype.
+You Answered
+Correct Answers
+Total 
+ 
+UnansweredQuestion 244
+0 / 0 pts
+According to the data-modeling checklist, _____ should be nouns that are familiar to business, should be short and meaningful, and should document abbreviations, synonyms, and aliases for each entity.
+You Answered
+Correct Answers
+entity names 
+ 
+UnansweredQuestion 245
+0 / 0 pts
+Unnormalized tables yield no simple strategies for creating virtual tables known as _____.
+You Answered
+Correct Answers
+views 
+ 
+UnansweredQuestion 246
+0 / 0 pts
+All relational tables satisfy the _____ requirements.
+You Answered
+Correct Answers
+1NF (first normal form) 
+1NF 
+first normal form (1NF) 
+first normal form 
+ 
+UnansweredQuestion 247
+0 / 0 pts
+_____ is a process to help reduce the likelihood of data anomalies.
+You Answered
+Correct Answers
+Normalization 
+ 
+UnansweredQuestion 248
+0 / 0 pts
+It becomes difficult to create a suitable _____ key when the related table uses a composite primary key.
+You Answered
+Correct Answers
+foreign 
+ 
+UnansweredQuestion 249
+0 / 0 pts
+In order to meet _____ requirements, you may have to denormalize some portions of a database design.
+You Answered
+Correct Answers
+performance 
+ 
+UnansweredQuestion 250
+0 / 0 pts
+Because a partial dependency can exist only when a table's primary key is composed of several attributes, a table whose _____ key consists of only a single attribute is automatically in 2NF once it is in 1NF.
+You Answered
+Correct Answers
+primary 
+ 
+UnansweredQuestion 251
+0 / 0 pts
+An attribute that cannot be further subdivided is said to display _____.
+You Answered
+Correct Answers
+atomicity 
+ 
+UnansweredQuestion 252
+0 / 0 pts
+In the _____, no row may contain two or more multivalued facts about an entity.
+You Answered
+Correct Answers
+4NF 
+fourth normal form 
+fourth normal form (4NF) 
+4NF (fourth normal form) 
+ 
+UnansweredQuestion 253
+0 / 0 pts
+A dependency based on only a part of a composite primary key is called a(n) _____.
+You Answered
+Correct Answers
+partial dependency 
+ 
+UnansweredQuestion 254
+0 / 0 pts
+_____ refers to the level of detail represented by the values stored in a table's row.
+You Answered
+Correct Answers
+Granularity 
+ 
+UnansweredQuestion 255
+0 / 0 pts
+The price paid for increased performance through denormalization is a larger amount of _____.
+You Answered
+Correct Answers
+redundancy 
+data redundancy 
+ 
+UnansweredQuestion 256
+0 / 0 pts
+In a real-world environment, changing granularity requirements might dictate changes in primary key selection, and those changes might ultimately require the use of _____ keys.
+You Answered
+Correct Answers
+surrogate 
+ 
+UnansweredQuestion 257
+0 / 0 pts
+The combination of _____ and ER modeling yields a useful ERD, whose entities may now be translated into appropriate table structures.
+You Answered
+Correct Answers
+normalization 
+ 
+UnansweredQuestion 258
+0 / 0 pts
+Rows can be grouped into smaller collections quickly and easily using the _____ clause within the SELECT statement.
+You Answered
+Correct Answers
+GROUP BY 
+ 
+UnansweredQuestion 259
+0 / 0 pts
+In the SQL environment, the word _____ covers both questions and actions.
+You Answered
+Correct Answers
+query 
+ 
+UnansweredQuestion 260
+0 / 0 pts
+A(n) _____, also known as a nested query or an inner query, is a query that is embedded (or nested) inside another query.
+You Answered
+Correct Answers
+subquery 
+ 
+UnansweredQuestion 261
+0 / 0 pts
+An alias is especially useful when a table must be joined to itself in a(n) _____ query.
+You Answered
+Correct Answers
+recursive 
+ 
+UnansweredQuestion 262
+0 / 0 pts
+“_____” means that the names of the relation attributes must be the same and their data types must be alike.
+You Answered
+Correct Answers
+Union-compatible 
+ 
+UnansweredQuestion 263
+0 / 0 pts
+In SQL, all _____ expressions evaluate to true or false.
+You Answered
+Correct Answers
+conditional 
+ 
+UnansweredQuestion 264
+0 / 0 pts
+The _____ clause of the GROUP BY statement operates very much like the WHERE clause in the SELECT statement.
+You Answered
+Correct Answers
+HAVING 
+ 
+UnansweredQuestion 265
+0 / 0 pts
+The _____ specification is used to avoid having duplicated values in a column.
+You Answered
+Correct Answers
+UNIQUE 
+ 
+UnansweredQuestion 266
+0 / 0 pts
+The _____ command, coupled with appropriate search conditions, is an incredibly powerful tool that enables a user to transform data into information.
+You Answered
+Correct Answers
+SELECT 
+ 
+UnansweredQuestion 267
+0 / 0 pts
+A(n) _____ character is a symbol that can be used as a general substitute for other characters or commands.
+You Answered
+Correct Answers
+wild card 
+wildcard 
+ 
+UnansweredQuestion 268
+0 / 0 pts
+A(n) _____ order sequence is a multilevel ordered sequence that can be created easily by listing several attributes, separated by commas, after the ORDER BY clause.
+You Answered
+Correct Answers
+cascading 
+ 
+UnansweredQuestion 269
+0 / 0 pts
+To make the SQL code more _____, most SQL programmers use one line per column (attribute) definition.
+You Answered
+Correct Answers
+readable 
+ 
+UnansweredQuestion 270
+0 / 0 pts
+A row-level trigger requires use of the _____ keywords and is executed once for each row affected by the triggering statement.
+You Answered
+Correct Answers
+FOR EACH ROW 
+ 
+UnansweredQuestion 271
+0 / 0 pts
+_____ is the process the DBMS uses to verify that only registered users access the database.
+You Answered
+Correct Answers
+Authentication 
+ 
+UnansweredQuestion 272
+0 / 0 pts
+A(n) _____-length character data type, like VARCHAR, is typically specified with a maximum length.
+You Answered
+Correct Answers
+variable 
+ 
+UnansweredQuestion 273
+0 / 0 pts
+U.S. state abbreviations are always two characters, so _____(2) is a logical choice for the data type representing a state column.
+You Answered
+Correct Answers
+CHAR 
+ 
+UnansweredQuestion 274
+0 / 0 pts
+_____ is the term used to describe an environment in which the SQL statement is not known in advance and is generated at run time.
+You Answered
+Correct Answers
+Dynamic SQL 
+ 
+UnansweredQuestion 275
+0 / 0 pts
+_____ words are words used by SQL to perform specific functions.
+You Answered
+Correct Answers
+Reserved 
+ 
+UnansweredQuestion 276
+0 / 0 pts
+In a 1:M relationship, a user must always create the table for the "_____" side first.
+You Answered
+Correct Answers
+1 
+one 
+ 
+UnansweredQuestion 277
+0 / 0 pts
+In an INSERT command, a user can indicate just the attributes that have required values by listing the _____ inside parentheses after the table name.
+You Answered
+Correct Answers
+names 
+ 
+UnansweredQuestion 278
+0 / 0 pts
+If the NOT NULL and UNIQUE specifications are not supported when using a command sequence, use _____ without the specifications.
+You Answered
+Correct Answers
+PRIMARY KEY
+
+UnansweredQuestion 279
+0 / 0 pts
+A table can be deleted from the database by using the _____ command.
+You Answered
+Correct Answers
+DROP TABLE 
+ 
+UnansweredQuestion 280
+0 / 0 pts
+A(n) _____ view is a view that can be used to update attributes in the base table(s) that are used in the view.
+You Answered
+Correct Answers
+updatable 
+ 
+UnansweredQuestion 281
+0 / 0 pts
+A(n) _____ is a logical group of database objects, such as tables and indexes, that are related to each other.
+You Answered
+Correct Answers
+schema 
+ 
+UnansweredQuestion 282
+0 / 0 pts
+To delete an index, one must use the _____ command.
+You Answered
+Correct Answers
+DROP INDEX 
+ 
+UnansweredQuestion 283
+0 / 0 pts
+A common practice is to create a(n) _____ on any field that is used as a search key, in comparison operations in a conditional expression, or when a user wants to list rows in a specific order.
+You Answered
+Correct Answers
+index 
+ 
+UnansweredQuestion 284
+0 / 0 pts
+If a user adds a new column to a table that already has rows, the existing rows will default to a value of _____ for the new column.
+You Answered
+Correct Answers
+null 
+ 
+UnansweredQuestion 285
+0 / 0 pts
+A(n)  ______ occurs when a transaction executes a query at time T1, and it runs the same query at same time T2, yielding additional rows that satisfy the query.
+You Answered
+Correct Answers
+phantom read 
+ 
+UnansweredQuestion 286
+0 / 0 pts
+The _____ protocol ensures that transaction logs are always written before any database data is actually updated.
+You Answered
+Correct Answers
+write-ahead-log 
+ 
+UnansweredQuestion 287
+0 / 0 pts
+The DBMS uses the information stored in the _____ log for a recovery requirement triggered by a ROLLBACK statement, a program’s abnormal termination, or a system failure such as a network discrepancy or a disk crash.
+You Answered
+Correct Answers
+transaction 
+ 
+UnansweredQuestion 288
+0 / 0 pts
+In a heavily used database management system (DBMS), the prevention and detection of _____ constitutes an important DBMS function. 
+You Answered
+Correct Answers
+deadlocks 
+ 
+UnansweredQuestion 289
+0 / 0 pts
+The objective of _____ control is to ensure the serializability of transactions in a multiuser database environment.
+You Answered
+Correct Answers
+concurrency 
+ 
+UnansweredQuestion 290
+0 / 0 pts
+_____ can take place at any of the following levels: database, table, page, row, or field.
+You Answered
+Correct Answers
+Locking 
+ 
+UnansweredQuestion 291
+0 / 0 pts
+The _____ interleaves the execution of database operations to ensure serializability.
+You Answered
+Correct Answers
+scheduler 
+ 
+UnansweredQuestion 292
+0 / 0 pts
+_____-level locks are less restrictive than database-level locks, but they create traffic jams when many transactions are waiting to access the same table.
+You Answered
+Correct Answers
+Table 
+ 
+UnansweredQuestion 293
+0 / 0 pts
+The scheduler’s main job is to create a(n) _____ of a transaction’s operation, in which the interleaved executions of transactions yield the same results as if the transactions were executed in serial order.
+You Answered
+Correct Answers
+serializable schedule 
+ 
+UnansweredQuestion 294
+0 / 0 pts
+Database transaction _____ restores a database from an inconsistent state to a previously consistent state.
+You Answered
+Correct Answers
+recovery 
+ 
+UnansweredQuestion 295
+0 / 0 pts
+If T1 has not unlocked data item Y, T2 cannot begin; if T2 has not unlocked data item X, T1 cannot continue. Consequently, T1 and T2 each wait for the other to unlock the required data item. Such a deadlock is also known as a(n) _____.
+You Answered
+Correct Answers
+deadly embrace 
+ 
+UnansweredQuestion 296
+0 / 0 pts
+The _____ occurs when two concurrent transactions, T1 and T2, are updating the same data element and one of the updates is lost.
+You Answered
+Correct Answers
+lost update problem 
+ 
+UnansweredQuestion 297
+0 / 0 pts
+If a(n) _____ is issued before the termination of a transaction, the DBMS will restore the database only for that particular transaction, rather than for all transactions, in order to maintain the durability of the previous transactions.
+You Answered
+Correct Answers
+ROLLBACK 
+ 
+UnansweredQuestion 298
+0 / 0 pts
+The _____ rule states that only one transaction at a time can own an exclusive lock on the same object.
+You Answered
+Correct Answers
+mutual exclusive 
+ 
+UnansweredQuestion 299
+0 / 0 pts
+_____ are ordered sets of values that are crucial in speeding up data access.
+You Answered
+Correct Answers
+Indexes 
+ 
+UnansweredQuestion 300
+0 / 0 pts
+The _____ analyzes the SQL query and finds the most efficient way to access the data.
+You Answered
+Correct Answers
+query optimizer 
+ 
+UnansweredQuestion 301
+0 / 0 pts
+A(n)_____ is an index based on a specific SQL function or expression.
+You Answered
+Correct Answers
+function-based index 
+ 
+UnansweredQuestion 302
+0 / 0 pts
+_____ is a measure of the likelihood that an index will be used in query processing.
+You Answered
+Correct Answers
+Index selectivity 
+ 
+UnansweredQuestion 303
+0 / 0 pts
+_____ is evaluated based on client perspective.
+You Answered
+Correct Answers
+SQL performance tuning 
+ 
+UnansweredQuestion 304
+0 / 0 pts
+Database _____ activities can be divided into those taking place either on the client side or on the server side.
+You Answered
+Correct Answers
+performance tuning 
+ 
+UnansweredQuestion 305
+0 / 0 pts
+DBMS query processing has _____ phases.
+You Answered
+Correct Answers
+3 
+three 
+ 
+UnansweredQuestion 306
+0 / 0 pts
+A conditional expression is normally expressed within the _____ or HAVING clauses of a SQL statement.
+You Answered
+Correct Answers
+WHERE 
+ 
+UnansweredQuestion 307
+0 / 0 pts
+The _____ segment table space is used for transaction-recovery purposes.
+You Answered
+Correct Answers
+rollback 
+ 
+UnansweredQuestion 308
+0 / 0 pts
+Once an SQL statement is transformed, the DBMS creates what is commonly known as a(n) _____ plan.
+You Answered
+Correct Answers
+access 
+execution 
+ 
+UnansweredQuestion 309
+0 / 0 pts
+A(n) _____ table stores the end-user data and the index data in consecutive locations on permanent storage.
+You Answered
+Correct Answers
+index-organized 
+clustered index 
+ 
+UnansweredQuestion 310
+0 / 0 pts
+The _____ table space is the most frequently accessed table space and should be stored in its own volume.
+You Answered
+Correct Answers
+system 
+ 
+UnansweredQuestion 311
+0 / 0 pts
+A(n) _____ request is a low-level read or write data access operation to or from computer devices.
+You Answered
+Correct Answers
+input/output 
+I/O 
+ 
+UnansweredQuestion 312
+0 / 0 pts
+A(n) _____ is good for simple and fast lookup operations based on equality conditions.
+You Answered
+Correct Answers
+hash index 
+ 
+UnansweredQuestion 313
+0 / 0 pts
+The _____ protocol is used by a DP to roll transactions back and forward with the help of the system's transaction log entries.
+You Answered
+Correct Answers
+do undo redo 
+DO UNDO REDO 
+DO-UNDO-REDO 
+do-undo-redo 
+ 
+UnansweredQuestion 314
+0 / 0 pts
+One of the advantages of a distributed database management system (DDBMS) is less danger of a single-_____ failure.
+You Answered
+Correct Answers
+point 
+ 
+UnansweredQuestion 315
+0 / 0 pts
+A user-friendly _____ is one advantage of a distributed database management system (DDBMS) .
+You Answered
+Correct Answers
+interface 
+ 
+UnansweredQuestion 316
+0 / 0 pts
+In a distributed database management system (DDBMS), _____ control is used to manage simultaneous data access and ensure data consistency across database fragments.
+You Answered
+Correct Answers
+concurrency 
+ 
+UnansweredQuestion 317
+0 / 0 pts
+Data _____ describes the process of deciding where to locate data.
+You Answered
+Correct Answers
+allocation 
+ 
+UnansweredQuestion 318
+0 / 0 pts
+In a basic distributed processing environment, the distributed processing system shares the database chores among three sites connected through a(n) _____.
+You Answered
+Correct Answers
+communications network 
+ 
+UnansweredQuestion 319
+0 / 0 pts
+In a distributed database management system (DDBMS), _____ occurs to determine the data location of local and remote fragments.
+You Answered
+Correct Answers
+mapping 
+ 
+UnansweredQuestion 320
+0 / 0 pts
+_____ management ensures that data move from one consistent state to another.
+You Answered
+Correct Answers
+Transaction 
+ 
+UnansweredQuestion 321
+0 / 0 pts
+During _____ replication, after an update, the originating DP node sends “messages” to the replica nodes to notify them of the update.
+You Answered
+Correct Answers
+pull 
+ 
+UnansweredQuestion 322
+0 / 0 pts
+The distributed database system must be _____ of the computer system hardware.
+You Answered
+Correct Answers
+independent 
+ 
+UnansweredQuestion 323
+0 / 0 pts
+In a distributed database management system (DDBMS), query _____ is used to find the best access strategy.
+You Answered
+Correct Answers
+optimization 
+ 
+UnansweredQuestion 324
+0 / 0 pts
+One of the advantages of a distributed database management system (DDBMS) is processor _____.
+You Answered
+Correct Answers
+independence 
+ 
+UnansweredQuestion 325
+0 / 0 pts
+The _____ forces the log entry to be written to permanent storage before the actual operation takes place.
+You Answered
+Correct Answers
+write-ahead protocol 
+ 
+UnansweredQuestion 326
+0 / 0 pts
+A transaction processor is also known as the _____ processor.
+You Answered
+Correct Answers
+application 
+ 
+UnansweredQuestion 327
+0 / 0 pts
+After an update, the originating DP node sends the changes to the replica nodes to ensure that data is immediately updated, during _____ replication.
+You Answered
+Correct Answers
+push 
+ 
+UnansweredQuestion 328
+0 / 0 pts
+In multidimensional terms, the ability to focus on slices of the cube to perform a more detailed analysis is known as _____.
+You Answered
+Correct Answers
+slice and dice 
+ 
+UnansweredQuestion 329
+0 / 0 pts
+A data _____ is a small, single-subject data warehouse subset that provides decision support to a small group of people.
+You Answered
+Correct Answers
+mart 
+ 
+UnansweredQuestion 330
+0 / 0 pts
+_____ are numeric measurements (values) that represent a specific business aspect or activity.
+You Answered
+Correct Answers
+Facts 
+ 
+UnansweredQuestion 331
+0 / 0 pts
+_____  means to decompose data into more atomic components or data at lower levels of aggregation.
+You Answered
+Correct Answers
+Drill down 
+ 
+UnansweredQuestion 332
+0 / 0 pts
+The most distinctive characteristic of modern OLAP tools is their capacity for _____ analysis.
+You Answered
+Correct Answers
+multidimensional 
+ 
+UnansweredQuestion 333
+0 / 0 pts
+A data _____ is a centralized, consolidated database that integrates data derived from the entire organization and from multiple sources with diverse formats.
+You Answered
+Correct Answers
+warehouse 
+ 
+UnansweredQuestion 334
+0 / 0 pts
+Data _____ tools are tools that provide advanced statistical analysis to uncover problems and opportunities hidden within business data.
+You Answered
+Correct Answers
+mining 
+ 
+UnansweredQuestion 335
+0 / 0 pts
+_____ is a collection of concepts, techniques, and processes for the proper identification, definition, and management of data elements within an organization.
+You Answered
+Correct Answers
+Master data management 
+Master data management (MDM) 
+MDM 
+ 
+UnansweredQuestion 336
+0 / 0 pts
+_____ is a term used to describe a comprehensive, cohesive, and integrated set of tools and processes used to capture, collect, integrate, store, and analyze data with the purpose of generating and presenting information used to support business decision making.
+You Answered
+Correct Answers
+Business intelligence 
+ 
+UnansweredQuestion 337
+0 / 0 pts
+_____ use web-based technologies to present key business performance indicators or information in a single integrated view, generally using graphics in a clear, concise, and easy to understand manner.
+You Answered
+Correct Answers
+Dashboards 
+ 
+UnansweredQuestion 338
+0 / 0 pts
+_____ are qualifying characteristics that provide additional perspectives to a given fact.
+You Answered
+Correct Answers
+Dimensions 
+ 
+UnansweredQuestion 339
+0 / 0 pts
+_____ are quantifiable measurements (numeric or scale based) that assess a company’s effectiveness or success in reaching its strategic and operational goals.
+You Answered
+Correct Answers
+Key performance indicators 
+Key performance indicators (KPI) 
+KPIs 
+KPI 
+ 
+UnansweredQuestion 340
+0 / 0 pts
+_____ makes a copy of a table and places it in a different location to improve access time.
+You Answered
+Correct Answers
+Replication 
+ 
+UnansweredQuestion 341
+0 / 0 pts
+A(n)_____ is a read-only database optimized for data analysis and query processing.
+You Answered
+Correct Answers
+data warehouse 
+ 
+UnansweredQuestion 342
+0 / 0 pts
+______ is a human-readable text format for data interchange that defines attributes and values in a document.
+You Answered
+Correct Answers
+JavaScript Object Notation 
+JSON 
+ 
+UnansweredQuestion 343
+0 / 0 pts
+______ databases simply store data with no attempt to understand the contents of the value component or its meaning.
+You Answered
+Correct Answers
+Key-value 
+KV 
+ 
+UnansweredQuestion 344
+0 / 0 pts
+A method of text analysis that attempts to determine if a statement conveys a positive, negative, or neutral attitude is referred to as ______ analysis.
+
+You Answered
+Correct Answers
+sentiment 
+ 
+UnansweredQuestion 345
+0 / 0 pts
+______ ​refers to traditional, relational database technologies that use column-centric, not  row-centric storage.
+You Answered
+Correct Answers
+Columnar database 
+Column-oriented database 
+ 
+UnansweredQuestion 346
+0 / 0 pts
+In a graph database, the representation of a relationship between nodes is called a(n) ______.
+You Answered
+Correct Answers
+edge 
+ 
+UnansweredQuestion 347
+0 / 0 pts
+​______ is the coexistence of a variety of data storage and data management technologies within an organization’s infrastructure.
+You Answered
+Correct Answers
+Polyglot persistence 
+ 
+UnansweredQuestion 348
+0 / 0 pts
+______  is used to extract knowledge from sources of data—NoSQL databases, Hadoop data stores, and data warehouses—to provide decision support to all organizational users.
+You Answered
+Correct Answers
+Data analytics 
+ 
+UnansweredQuestion 349
+0 / 0 pts
+______ do not store relationships as perceived in the relational model and generally have no support for join operations. 
+You Answered
+Correct Answers
+Document databases 
+ 
+UnansweredQuestion 350
+0 / 0 pts
+A database model that attempts to provide ACID-compliant transactions across a highly distributed infrastructure is ______.
+You Answered
+Correct Answers
+NewSQL 
+ 
+UnansweredQuestion 351
+0 / 0 pts
+In the context of the advancements in DBMS technology, the use of _____ data services can free the DBA from many lower-level technology-oriented tasks.
+You Answered
+Correct Answers
+cloud 
+ 
+UnansweredQuestion 352
+0 / 0 pts
+Performance monitoring and _____ activities are designed to ensure that the DBMS, utilities, and applications maintain satisfactory performance levels.
+You Answered
+Correct Answers
+tuning 
+ 
+UnansweredQuestion 353
+0 / 0 pts
+In the context of database administration, _____ is the extent to which individuals and organizations have the right to determine the “who, what, when, where, and how” of data usage.
+You Answered
+Correct Answers
+privacy 
+ 
+UnansweredQuestion 354
+0 / 0 pts
+A security _____ is a weakness in a system component that could be exploited to allow unauthorized access or cause service disruptions.
+You Answered
+Correct Answers
+vulnerability 
+ 
+UnansweredQuestion 355
+0 / 0 pts
+Within the data security framework, _____ is concerned with keeping data consistent and free of errors or anomalies.
+You Answered
+Correct Answers
+integrity 
+ 
+UnansweredQuestion 356
+0 / 0 pts
+Based on the type of decision-making support required, database users may be classified into: operational, tactical, or _____.
+You Answered
+Correct Answers
+strategic 
+ 
+UnansweredQuestion 357
+0 / 0 pts
+The DSO’s activities are often classified as _____ management, which includes all DBA activities designed to ensure data availability following a physical calamity or a database integrity failure.
+You Answered
+Correct Answers
+disaster 
+ 
+UnansweredQuestion 358
+0 / 0 pts
+In the context of data quality management tools, _____ software is one that gathers statistics, analyzes existing data sources and metadata to determine patterns, and compares the patterns against standards that the organization has defined.
+You Answered
+Correct Answers
+data-profiling 

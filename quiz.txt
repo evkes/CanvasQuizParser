@@ -1,0 +1,6 @@
+A _____ is a logically connected set of one or more fields that describes a person, place, or thing.
+Correct!
+  record
+  column
+  file
+  database
